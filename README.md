@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 ## Bit Manipulation
 |  |
@@ -33,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
