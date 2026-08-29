@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
+| [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
 ## Sliding Window
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
