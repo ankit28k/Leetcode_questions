@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
 ## Sliding Window
 |  |
