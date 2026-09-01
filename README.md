@@ -74,5 +74,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
