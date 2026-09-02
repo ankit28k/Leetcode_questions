@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Linked List
 |  |
@@ -92,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
