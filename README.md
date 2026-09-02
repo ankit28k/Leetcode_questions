@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
 | [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Union-Find
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ankit28k/Leetcode_questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
