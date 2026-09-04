@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ankit28k/Leetcode_questions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2421-number-of-good-paths](https://github.com/ankit28k/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Hash Table
 |  |
@@ -115,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankit28k/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ankit28k/Leetcode_questions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ankit28k/Leetcode_questions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ankit28k/Leetcode_questions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
