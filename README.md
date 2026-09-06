@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/ankit28k/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0805-split-array-with-same-average](https://github.com/ankit28k/Leetcode_questions/tree/master/0805-split-array-with-same-average) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Bit Manipulation
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ankit28k/Leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/ankit28k/Leetcode_questions/tree/master/0433-minimum-genetic-mutation) |
+| [0678-valid-parenthesis-string](https://github.com/ankit28k/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankit28k/Leetcode_questions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2953-count-complete-substrings](https://github.com/ankit28k/Leetcode_questions/tree/master/2953-count-complete-substrings) |
 ## Sliding Window
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ankit28k/Leetcode_questions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ankit28k/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/ankit28k/Leetcode_questions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ankit28k/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ankit28k/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
